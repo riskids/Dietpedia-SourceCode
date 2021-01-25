@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.73f62889.chunk.css",
-    "main.js": "/static/js/main.53a6a0e3.chunk.js",
-    "main.js.map": "/static/js/main.53a6a0e3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4e5b1902.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4e5b1902.js.map",
-    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
-    "static/js/2.930bc547.chunk.js": "/static/js/2.930bc547.chunk.js",
-    "static/js/2.930bc547.chunk.js.map": "/static/js/2.930bc547.chunk.js.map",
-    "static/js/3.109400e8.chunk.js": "/static/js/3.109400e8.chunk.js",
-    "static/js/3.109400e8.chunk.js.map": "/static/js/3.109400e8.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.73f62889.chunk.css.map": "/static/css/main.73f62889.chunk.css.map",
-    "static/js/2.930bc547.chunk.js.LICENSE.txt": "/static/js/2.930bc547.chunk.js.LICENSE.txt"
+    "main.css": "/dietPedia/static/css/main.9f323b05.chunk.css",
+    "main.js": "/dietPedia/static/js/main.ce26c723.chunk.js",
+    "main.js.map": "/dietPedia/static/js/main.ce26c723.chunk.js.map",
+    "runtime-main.js": "/dietPedia/static/js/runtime-main.e6f4b4d0.js",
+    "runtime-main.js.map": "/dietPedia/static/js/runtime-main.e6f4b4d0.js.map",
+    "static/css/2.150d169a.chunk.css": "/dietPedia/static/css/2.150d169a.chunk.css",
+    "static/js/2.88b5b283.chunk.js": "/dietPedia/static/js/2.88b5b283.chunk.js",
+    "static/js/2.88b5b283.chunk.js.map": "/dietPedia/static/js/2.88b5b283.chunk.js.map",
+    "static/js/3.85426a23.chunk.js": "/dietPedia/static/js/3.85426a23.chunk.js",
+    "static/js/3.85426a23.chunk.js.map": "/dietPedia/static/js/3.85426a23.chunk.js.map",
+    "index.html": "/dietPedia/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/dietPedia/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.9f323b05.chunk.css.map": "/dietPedia/static/css/main.9f323b05.chunk.css.map",
+    "static/js/2.88b5b283.chunk.js.LICENSE.txt": "/dietPedia/static/js/2.88b5b283.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4e5b1902.js",
+    "static/js/runtime-main.e6f4b4d0.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.930bc547.chunk.js",
-    "static/css/main.73f62889.chunk.css",
-    "static/js/main.53a6a0e3.chunk.js"
+    "static/js/2.88b5b283.chunk.js",
+    "static/css/main.9f323b05.chunk.css",
+    "static/js/main.ce26c723.chunk.js"
   ]
 }
