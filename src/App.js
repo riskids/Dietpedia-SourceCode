@@ -87,7 +87,7 @@ handleOnInputChange = (event) => {
 					this.fetchSearchnutritionResults(1, queryNut);
 				});
 			}
-		console.log(this.state.nutritionResults)
+		// console.log(this.state.nutritionResults)
 	};
 
 renderSearchnutritionResults = () => {
@@ -236,7 +236,7 @@ renderGoogleNews(){
 			// };
 			// return buildMap(entri,thumbnailResults)
 
-				  console.log(thumbnailResults,entri)
+				  // console.log(thumbnailResults,entri)
 					return (
 
 							<div>
