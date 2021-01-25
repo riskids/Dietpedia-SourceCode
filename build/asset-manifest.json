@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dietPedia/static/css/main.9f323b05.chunk.css",
-    "main.js": "/dietPedia/static/js/main.bea68f8b.chunk.js",
-    "main.js.map": "/dietPedia/static/js/main.bea68f8b.chunk.js.map",
+    "main.js": "/dietPedia/static/js/main.0b672717.chunk.js",
+    "main.js.map": "/dietPedia/static/js/main.0b672717.chunk.js.map",
     "runtime-main.js": "/dietPedia/static/js/runtime-main.e6f4b4d0.js",
     "runtime-main.js.map": "/dietPedia/static/js/runtime-main.e6f4b4d0.js.map",
     "static/css/2.150d169a.chunk.css": "/dietPedia/static/css/2.150d169a.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.88b5b283.chunk.js",
     "static/css/main.9f323b05.chunk.css",
-    "static/js/main.bea68f8b.chunk.js"
+    "static/js/main.0b672717.chunk.js"
   ]
 }
