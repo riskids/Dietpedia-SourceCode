@@ -6,12 +6,12 @@ function Navbar() {
         <nav class="navbar shadow-nav bg-green navbar-expand fixed-bottom">
             <ul class="navbar-nav nav-justified w-100">
                 <li class="nav-link">
-                    <NavLink class="nav-link" to="/dietPedia">
+                    <NavLink to="/dietPedia">
                         <span class="material-icons size-34">search</span>
                     </NavLink>
                 </li>
                 <li class="nav-link">
-                    <NavLink class="nav-link" to="/article">
+                    <NavLink to="/article">
                         <span class="material-icons size-34">explore</span>
                     </NavLink>
                 </li>

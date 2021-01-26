@@ -87,9 +87,14 @@ a{
 .bg-green{
   background-color: #CBE54E;
 }
+
 .bg-green a{
   color: #ffffff;
-  margin: -5px 0px 0px;
+}
+
+.navbar{
+  padding-bottom: 1px;
+  padding-top: 4px;
 }
 
 .size-34{
