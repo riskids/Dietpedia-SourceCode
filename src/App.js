@@ -41,8 +41,9 @@ class App extends React.Component {
 			url: searchUrl,
 			params: {fields: 'item_name,item_id,brand_name,nf_calories,nf_total_fat'},
 			headers: {
-				'x-rapidapi-key': 'e1216e638emsh115d8a998d4d376p117e35jsnf92a3abff6ee',
-				'x-rapidapi-host': 'nutritionix-api.p.rapidapi.com'
+				"x-rapidapi-key": "e1216e638emsh115d8a998d4d376p117e35jsnf92a3abff6ee",
+				"x-rapidapi-host": "nutritionix-api.p.rapidapi.com",
+				"useQueryString": true
 			}
 		};
 
@@ -126,8 +127,9 @@ getThumbnail = () =>{
 			  method: 'GET',
 			  url: searchUrl,
 			  headers: {
-			    'x-rapidapi-key': 'e1216e638emsh115d8a998d4d376p117e35jsnf92a3abff6ee',
-			    'x-rapidapi-host': 'google-search3.p.rapidapi.com'
+					"x-rapidapi-key": "e1216e638emsh115d8a998d4d376p117e35jsnf92a3abff6ee",
+					"x-rapidapi-host": "google-search3.p.rapidapi.com",
+					"useQueryString": true
 			  }
 			};
 
@@ -155,8 +157,9 @@ async getGoogleNews(){
 		 const response = await fetch("https://google-search3.p.rapidapi.com/api/v1/news/q=diet+sehat&hl=id", {
 			 "method": "GET",
 			 "headers": {
-				 "x-rapidapi-key": "518dacdf68mshe074609f26cc4e9p107185jsn84ce96ca1395",
-				 "x-rapidapi-host": "google-search3.p.rapidapi.com"
+				  "x-rapidapi-key": "e1216e638emsh115d8a998d4d376p117e35jsnf92a3abff6ee",
+					"x-rapidapi-host": "google-search3.p.rapidapi.com",
+					"useQueryString": true
 			 },
 			 redirect: "follow", // manual, *follow, error
 			 referrerPolicy: "no-referrer", // no-referrer, *client
@@ -204,7 +207,6 @@ renderGoogleNews(){
 	const {articleResults,thumbnailResults} = this.state;
 	const entri = articleResults.entries
 
-	console.log(articleResults)
 	if (Object.keys(articleResults).length && articleResults.entries.length) {
 		if (Object.keys(thumbnailResults).length && thumbnailResults.length) {
 			// console.log(articleResults.entries[0])
