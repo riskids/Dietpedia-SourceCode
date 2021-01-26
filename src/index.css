@@ -106,11 +106,11 @@ a{
 
 
 .hasil-search{
-  padding-bottom: 90px;
+  padding-bottom: 7rem;
 }
 
 .img-article{
-  height: 113px !important;
+  height: 100px !important;
   border-radius: 15px;
   object-fit: cover;
 }
